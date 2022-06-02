@@ -1,0 +1,53 @@
+""" 
+Tipos de datos: (En python al dato se le llama clase)
+int --> Entero
+str --> Carácter (o carác>teres)
+float --> Numero flotante (con coma)
+Bool --> True o False
+
+Como averiguo el tipo de alguna cosa, con la función type()
+Ejemplo:
+
+a = 10
+type(a)
+nos imprime <class 'int'>
+
+Según el tipo de dato (o clase) podemos usar diferentes operaciones.
+Que operaciones conocemos:
++ --> Suma
+- --> Resta
+/ --> División entera
+* --> Multiplicación
+** --> Potencia
+% --> Móduelo , la vamos a ver en alguna clase que viene
+
+Estas todas sirven para números (tipo int o tipo float) algúnas como el + siven también para tipo str
+
+Los comparadores son operaciones que devuelven True (verdadero) o False (falso) según corresponda.
+< --> Menor que
+> --> Mayor que
+>= --> Mayor o igual que
+<= --> Menor o igual que
+== --> Exactamente igual
+!= --> Diferente
+
+Ejemplo:
+a = 2
+b = 4
+
+a<b
+nos imprime True
+
+a>b 
+nos imprime False
+
+a==b
+nos imprime False
+
+a!=b 
+nos imprime True
+
+-------------------------------------------
+
+
+"""
